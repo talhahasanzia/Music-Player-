@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_bcce865b0d61ebbcd9cbabae15cd25d4b88e6476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_a398d009bd885e557cff2475376e5c16600ba938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\percent\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01acd167d64a3835490f0d058c9e9052a514797c">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-percent-25.1.0_8e170b3bdc69d6b6c4e6798b8baf26d35e498984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_5c9cf679a41db0fd65de24d2eca4ee8d22f2576a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_5faefcb6c2461d2fd0a3020615c1a872b74768d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.0.2_2875671484b874e659be6e3aacc92743839b0905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_b7dafc8fc454b7055ac31f3c753d4452a0bed681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_7e77af633421ff17f2c0c009d1d8568d9b0df8c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_564c742f7cc4a1441efeeb0133291effdebecd45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\Android\Android\Sdk\build-tools\25.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\renderscript-v8_c0b67b69af0ec61ee1a5c45f68ebf03827f6db0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_8253c7040ece74ccb1e801a856745317f7e03d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.14_311b6aa3a320616b820e7d9d1903fef516359e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.1.0_73fc832fba6f9f3fa57a5d754256d5eca7257575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_569fec51d361f3c46753dfa896573298889bb788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.anjlab.android.iab.v3\library\1.0.43\284f67b1696b074391c52c8eb4cfe94501943d49\library-1.0.43.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="284f67b1696b074391c52c8eb4cfe94501943d49">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\library-1.0.43_1b08368cfcb750ff834e8b84223d49f7b3a02880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\de.Maxr1998\track-selector-lib\1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f14a57ab20f539de366b6600fe150d8794ed7a39">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\de.Maxr1998-track-selector-lib-1.1_f3ba493248fef8b2317b61f60a325cf7111fa500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.7_3ddba03bff2a8c80783955a64019530f1edfb0d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\commons\0.9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8040f9d05681dcadce06606dc127fe1c1a9212a">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-commons-0.9.0.2_3b75cbdbc3bd45dab017c366404c8fd17602c83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_7a066d30911c624d82954327fb9225fb28be7aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.6.5_440ef5f3b91e3250f6ecbb5ad6655779673e51aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.2.2_cdad52a624fe774fcace87f29f1620ba206e325e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.14_f5f9c8400836f711fdaea7e0b3e79f7ff572a2c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\commons\0.9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8040f9d05681dcadce06606dc127fe1c1a9212a">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-commons-0.9.0.2_6372f33a81710c78e189471598dfd08b766009a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.14_7c17f2ed18b9657e6cb90ab5cd4a394c1e2eeada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.10_d5b309e496b96bebbde6933c5a15d29dd3121072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_2f87c865d520edd64815fd54c635f86fcda4788b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_dfc927897a22fbf8ab346d59f3a7b6e5aac7e6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.6.5_a69df81fb2fabba3f7a9afc796a22f468fd4c486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.3.0\4f12ec1e1455909e1f0b8530c719c90b2d01745\okhttp-urlconnection-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04f12ec1e1455909e1f0b8530c719c90b2d01745">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.3.0_956c9027f7456051382129026d5e89d43750d0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_a25c4d9545e66bde2115ff0ba6004b9d1db92ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\Android\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_5dd1d3bbeae4a12fbd839400c2432ef101522fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_7f4e05235a45a6686dfaa86d44e1b4427deb1c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.0.2_24b3bbf80690c4406567f2057e7c7b0691a867af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\net.steamcrafted\materialiconlib\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28d798851bb77283f4c0363b5baf5c22bbe83a82">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\net.steamcrafted-materialiconlib-1.0.3_6904d0dda3f8ee0dcd9f9e5acca7933cecf03964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_1a1d05494bcf373c4d26572fda5b7062ecdf8b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_7c1e8ea42b767aa7ba84c53d539d40970dd0a73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_b03298fd881892979631815c49352ac285f55bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_fe452797dc69c921f1452059b4d4d689be742f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_53366911ff47f103eb37d428d5be1f300e6180f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_2a6edf814d16aa7106cb003bdcf436cb07539652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.10_38c559234da2a34d97a521a10a74d41e614a7c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_33e7df0bf131e61e8983a13f00bb2c94b0f1e2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.7_5f2dd6eb065db5d02857e30ca75995c495800416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_a5d78c184f362946b962fe3b75fed8e428517da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\net.steamcrafted\materialiconlib\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28d798851bb77283f4c0363b5baf5c22bbe83a82">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\net.steamcrafted-materialiconlib-1.0.3_4478b73dae3fcff899a67be28efd99e75da6e5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.14\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.14_ee85e40b6b5adc6b7cd6395c638b9271dcd1f253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.2.2_d8343754458e66a8b74331ecc8799f206b0757d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.github.naman14\app-theme-engine\0.5.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1fd408b6b37c4fe6391d18b4e48d9982defc0f5">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.github.naman14-app-theme-engine-0.5.2_d0e92e10bd1e9f18adc734e28ef5b476699edb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_18b4f1b3fe80d4f8c07eadb317434919eaecfe6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_08fac6aee8234054ff01e1ace343805ac6ad9ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\percent\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01acd167d64a3835490f0d058c9e9052a514797c">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-percent-25.1.0_73311a3e39d07da2162ee626453c05cddc9c1692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_57ddbbcc5d68fc6a7676dc696f27d88f21a235d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_b1be5df38f7ac98d625bde64ba95dee107512097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.1.0_bac98b321736f56cf1d3cc76cd25f192d9543fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_093370c48bf0c8b24ebf21523ea8c13861044681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.github.naman14\app-theme-engine\0.5.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1fd408b6b37c4fe6391d18b4e48d9982defc0f5">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.github.naman14-app-theme-engine-0.5.2_ec9e899fe0687167c3da55490f2147ac14fe7b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_dd5bad41c0605ccd3b254faf61aed3af7c27c230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\exploded-aar\de.Maxr1998\track-selector-lib\1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f14a57ab20f539de366b6600fe150d8794ed7a39">
+        <dex dex="C:\Users\Venturedive\Desktop\Musicplayer\app\build\intermediates\pre-dexed\debug\de.Maxr1998-track-selector-lib-1.1_b99ebe9abe5bf3a9f15adcbc60c98ecd68699a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_ef8413ff94bddea8c7a5b31fcbcf2079f7eb9eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\okio-1.3.0_1fad5c713d3897e55a037b33269794305bd206ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Venturedive\Desktop\music palyer\Timber-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_e701d2aacf0bf22532affc444094418643b71735.jar" />
+    </item>
+
+</items>
